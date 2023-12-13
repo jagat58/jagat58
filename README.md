@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Jagat
+- 👀 I’m interested in Android Mobile App Development
+- 🌱 I’m currently learning Flutter and Dart
+- 💻 Some of my skills include HTML, CSS, JavaScript, and PHP
+- 🔧 I’m working on improving my proficiency in mobile app development and exploring new technologies
+- 📈 GitHub Streak: [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jagat58)](https://github.com/jagat58)
+- 📫 How to reach me: jagatacharya59@gmail.com
