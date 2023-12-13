@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jagat
+- 👋 Hi, I’m Jagat Acharya 
 - 👀 I’m interested in Android Mobile App Development
 - 🌱 I’m currently learning Flutter and Dart
 - 💻 Some of my skills include HTML, CSS, JavaScript, and PHP
